@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "amomin0107@gmail.com",
+    "longName": "WITCHER 3 ",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ddc288f587afc1185e93ef7479ac113f.png",
+                "name": "witcher",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Fighting Spirit 2.ttf",
+                "name": "witcher_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WITCHER 3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "66a1e271-1c08-463c-ae5a-df468c62af9b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
